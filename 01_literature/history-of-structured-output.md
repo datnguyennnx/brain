@@ -52,7 +52,7 @@ When Large Language Models (LLMs) becomes popular and an essential tool for grow
     - Ensuring structured outputs adhere to specific formats. This repository provides tools and examples specifically focused on JSON schema validation.
     - By implementing an "acceptor" system, the repository verifies if the LLM's generated text conforms to a predefined JSON schema. This functionality promotes data accuracy and reliability in structured output generation, a key aspect for integrating LLMs into various applications
 
-![Timeline of structured output library](./assets/TimelineCycle.webp)
+![Timeline of structured output library](./assets/Timeline-library-structured-outputs.webp)
 
 There's been a clear progression from user workarounds and external frameworks to functionalities embedded directly within LLMs. We've seen increased control over output format, with advancements like JSON schemas and schema-example combinations. Research continues to address accuracy, flexibility, and seamless integration of structured output functionalities across LLM platforms.
 
